@@ -4,3 +4,4 @@
 <p align="center">
   <a href="https://github.com/Zyruz-ramu/zyruzbot/fork">
     <img src="https://img.shields.io/github/forks/Zyruz-ramu/zyruzbot?label=Fork&style=social">
+https://i.imgur.com/dSrPm2R.jpg
