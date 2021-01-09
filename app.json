@@ -1,14 +1,14 @@
 {
-      "name": "SaitamaRobot",
-      "description": "An Anime themed Telegram group management bot.",
+      "name": "ZyruzProBot",
+      "description": "group help bot with many featuers.",
       "keywords": [
          "telegram",
-         "anime",
+         "zyruz",
          "group",
          "manager",
-         "Saitama"
+         "zyruzpro"
       ],   
-   "repository": "https://github.com/AnimeKaizoku/SaitamaRobot",
+   "repository": "https://github.com/Zyruz-ramu/zyruzbot",
    "addons": [
       {
          "options": {
@@ -41,7 +41,7 @@
       "OWNER_ID": {
          "description": "Your user ID as an integer.",
          "required": true,
-         "value": "792109647"
+         "value": "1303191674"
       },
       "OWNER_USERNAME": {
          "description": "Your username without the @",
